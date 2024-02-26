@@ -6,3 +6,5 @@ Tech stack:
 1) client - unity WebGL
 2) server - node JS
 3) сryptocurrency technology - Solidity
+
+4) extra technology - telegram api
