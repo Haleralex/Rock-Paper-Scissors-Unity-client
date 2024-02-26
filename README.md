@@ -5,3 +5,4 @@ As envisioned, the player launches the app via telegram and plays with real play
 Tech stack:
 1) client - unity WebGL
 2) server - node JS
+3) сryptocurrency technology - Solidity
